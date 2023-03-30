@@ -2,8 +2,8 @@
 
 ### Grupo 3
 
-[Cristian Contreras] https://github.com/Hades-black/Trabajo-5.git
+[Cristian Contreras](https://github.com/Hades-black/Trabajo-5.git)
 
-[Luis Gonzalez](https://github.com/GROblivium)
+[Luis Gonzalez](https://github.com/GROblivium/GrupalJS5.git)
 
-[Miriam Pulgar](https://github.com/Mirimin90)
+[Miriam Pulgar](https://github.com/Mirimin90/Trabajo-5)
